@@ -5,12 +5,12 @@
     <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="20" height="20"/>, 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="react" width="20" height="20"/>, 
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>,
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="mysql" width="20" height="20"/>,
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="20" height="20"/>,
     <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>,
     <img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>
   ) at <a href="https://www.betrybe.com">Trybe</a>
@@ -22,7 +22,6 @@
     <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>, 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/>, 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="20" height="20"/>,

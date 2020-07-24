@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Havyner Caetano 👋</h1>
 
 - :seedling: I'm currently taking a 12-month full stack course (
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>, 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/>, 
+    <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" width="20" height="20"/>, 
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_32.png" alt="html5" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>, 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="20" height="20"/>, 
+    <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/>, 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="20" height="20"/>, 
@@ -12,7 +12,7 @@
     <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>,
     <img src="https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="20" height="20"/>,
     <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20"/>,
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20"/>
+    <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="github" width="20" height="20"/>
   ) at <a href="https://www.betrybe.com">Trybe</a>
 - :computer: I have some work experience with 
     <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="20" height="20"/>,

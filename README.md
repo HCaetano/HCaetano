@@ -1,38 +1,36 @@
 <h1 align="center">Hi, I'm Havyner Caetano 👋</h1>
 
-- :seedling: I'm currently taking a 12-month full stack course (
-    <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" width="20" height="20"/>, 
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_32.png" alt="html5" width="20" height="20"/>, 
-    <img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="css3" width="20" height="20"/>, 
-    <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react" width="20" height="20"/>, 
+I am a Brazilian software developer who is transitioning into tech 🖥️ coming from a background in education 📚. My first steps in tech were in back-end and although I liked it, I found that what really makes time fly for me is front-end development 🚀, which is my current occupation, as an intern, at [Jungle Devs](https://jungledevs.com/). Our main stack is <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>,
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> and 
+    <img src="https://img.icons8.com/color/100/000000/redux.png" alt="redux" width="20" height="20"/>.
+- My pronouns are he/his/him.
+- :seedling: In terms of education, in addition to an ongoing undergrad course in tech, I also took a 12-month (1500+ hours) full-stack course (
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, 
     <img src="https://img.icons8.com/color/100/000000/redux.png" alt="redux" width="20" height="20"/>, 
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="node" width="20" height="20"/>, 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="20" height="20"/>, 
-    <img src="http://www.manualweb.net/img/logos/mongodb.png" alt="mongodb" width="20" height="20"/>, 
-    <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-256.png" alt="mysql" width="20" height="20"/>,
-    <img src="https://image.flaticon.com/icons/svg/873/873120.svg" alt="heroku" width="20" height="20"/>,
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>,
-    <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="github" width="20" height="20"/>
-  ) at <a href="https://www.betrybe.com">Trybe</a>
-- :computer: I have some work experience with 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>,
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>
+  ) at <a href="https://www.betrybe.com">Trybe</a>, which was concluded in june/2021.
+- Besides the software development content, the couse also dedicated a significant amount of time to developing the student's soft skills. Some of the topics we had the opportunity to learn about and practice on daily activities are: communication, empathy, teamwork, time management, leadership, critical thinking and creativity. 
+- :computer: Some of my previous work experience was with the following technologies: 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>,
     <img src="https://javaetmoi.com/wp-content/uploads/2014/04/logo-hibernate.png" alt="hibernate" width="20" height="20"/>,
     <img src="https://i.stack.imgur.com/irUrQ.png" alt="spring" width="20" height="20"/>,
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>, 
     <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="javascript" width="20" height="20"/>, 
     <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_32.png" alt="html5" width="20" height="20"/>, 
-    <img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="css3" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>, 
     <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195509/regular_82x82_jquery-61c323b5e33214d6c3d442ed276eab68.png" alt="jquery" width="20" height="20"/>, 
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="oracle" width="20" height="20"/>, 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="20" height="20"/>,
-    <img src="https://image.flaticon.com/icons/svg/882/882702.svg" alt="windows" width="20" height="20"/>
-- :muscle: Besides the above, I've developed with 
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="20" height="20"/>, 
-    <img src="https://logos-download.com/wp-content/uploads/2016/05/Android_robot_logo.png" alt="android" width="20" height="20"/>, 
-    <img src="https://img.icons8.com/color/100/000000/postgreesql.png" alt="postgresql" width="20" height="20"/>, 
-    <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" alt="ubuntu" width="20" height="20"/> 
-  taking courses and on my own
-- :mailbox: Send me an email at hrcgeo@gmail.com or send <a href="https://www.linkedin.com/in/havyner-caetano-8ba812123">me</a> a message on <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="20" height="20"/>.
+- :mailbox: Send me an email at hrcgeo@gmail.com or send <a href="https://www.linkedin.com/in/havyner-caetano-8ba812123">me</a> a message on <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/>.
 
 
 

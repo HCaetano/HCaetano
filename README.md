@@ -20,6 +20,7 @@ I am a Brazilian software developer who is transitioning into tech 🖥️ comin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>, 
     <img src="https://img.icons8.com/color/100/000000/redux.png" alt="redux" width="20" height="20"/>, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="20" height="20"/>, 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/>, 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>,
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" alt="github" width="20" height="20"/>

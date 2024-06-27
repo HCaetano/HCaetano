@@ -23,7 +23,7 @@ I am a Brazilian software developer coming from a background in education 📚. 
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png" alt="github" width="20" height="20"/>
   ) at <a href="https://www.betrybe.com">Trybe</a>, which was concluded in june/2021.  
 
-- Besides the software development content, the couse also dedicated a significant amount of time to developing the student's soft skills. Some of the topics we had the opportunity to learn about and practice on daily activities are: communication, empathy, teamwork, time management, leadership, critical thinking and creativity.  
+- Besides the software development content, the course also dedicated a significant amount of time to developing the student's soft skills. Some of the topics we had the opportunity to learn about and practice on daily activities are: communication, empathy, teamwork, time management, leadership, critical thinking and creativity.  
 
 # Previous work experiences
 

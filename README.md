@@ -2,11 +2,11 @@
 
 # About me
 
-I am a Brazilian software developer coming from a background in education 📚. My most recent positions were in front-end, but I'm not dogmatic regarding technology. I've worked with backend in the past and I'd love to do so again, if given the opportunity. 
+I am a Brazilian software developer coming from a background in education 📚. My most recent positions were in front-end, which is my preference, but I'm not dogmatic regarding technology. I've worked with backend in the past and I'd love to do so again, if given the opportunity. 
 
 # Some of my interests
 
-- I love to watch movies, tv shows and documentaries, read books and comic books, play games and tabletop RPG with my friends, do things that exercise my creativity, and, of course, code listening to music 🖥️ 🎵.  
+- I love to watch movies, tv shows and documentaries, read books and comic books, play games and tabletop RPG with my friends, do things that exercise my creativity, and, of course, code listening to music.  
 
 # Education
 
@@ -30,7 +30,7 @@ I am a Brazilian software developer coming from a background in education 📚. 
 - Junior front-end developer (and also intern, initially) at [Trybe](https://betrybe.com/), an edtech focused on teaching software development in Brazil. I worked as the sole front-end developer on an initiative to create a dashboard to show their students their financial data. I was involved from the brainstorm until the release. The dashboard is now live and available for more than 5000 of Trybe's students who acquired their education financing solution.
 - Front-end developer intern at [Jungle Devs](https://jungledevs.com/) for a client in the real state business 🏠 whose application was used by 4000+ people weekly.
 
-- :computer: I've also had the opportunity to work with back-end development using the following technologies: 
+- I've also had the opportunity to work with back-end development using the following technologies: 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>,
     <img src="https://javaetmoi.com/wp-content/uploads/2014/04/logo-hibernate.png" alt="hibernate" width="20" height="20"/>,
     <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195509/regular_82x82_jquery-61c323b5e33214d6c3d442ed276eab68.png" alt="jquery" width="20" height="20"/>, 
